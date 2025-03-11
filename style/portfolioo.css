@@ -51,3 +51,9 @@ nav li a{
 .dark-2{
     color: #474747;
 }
+
+/* banner stule */
+
+.banner-greetings {
+    font-size: 45px;
+}
