@@ -56,4 +56,10 @@ nav li a{
 
 .banner-greetings {
     font-size: 45px;
+    font-weight: 600px;
+}
+
+.banner-title{
+    font-size: 85px;
+    font-weight: bold;
 }
